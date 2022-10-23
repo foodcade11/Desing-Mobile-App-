@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="mycolor">#1AB1DF</color>
+
+    <color name="ex_lbl_color">#8C0A0A</color>
 </resources>
