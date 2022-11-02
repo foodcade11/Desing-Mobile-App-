@@ -15,6 +15,7 @@ public class Example extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_example);
 
+
         ImageView ex_image=findViewById(R.id.ex_img);
         TextView ex_lbl =findViewById(R.id.ex_text);
 
